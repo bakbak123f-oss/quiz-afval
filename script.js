@@ -55,4 +55,4 @@ volgendeKnop.addEventListener("click", function () {
         feedback.textContent = "Je score is: " + score + " van de 5"
     }
 
-});
+})
